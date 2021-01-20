@@ -1,6 +1,5 @@
 " Vim syntax file
 " Language:	nonmem
-" Maintainer:	Chayan Acharya <chayan.acharya@pharmetheus.com>
 
 if exists("b:current_syntax")
   finish
