@@ -1,6 +1,5 @@
 " Vim syntax file
-" Language:	NONMEM
-" Maintainer:	Chayan Acharya <chayan.acharya@pharmetheus.com>
+" Language:	nonmem
 
 if exists("b:current_syntax")
   finish
@@ -73,5 +72,5 @@ if version >= 508 || !exists("did_c_syn_inits")
   delcommand HiLink
 endif
 
-let b:current_syntax = "NONMEM"
+let b:current_syntax = "nonmem"
 
